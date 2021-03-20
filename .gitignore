@@ -1,0 +1,6 @@
+__pycache__/
+config.py
+.venv
+.vscode
+google_auth.json
+data_dragon/*
